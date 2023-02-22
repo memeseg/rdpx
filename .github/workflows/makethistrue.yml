@@ -28,7 +28,7 @@ jobs:
 
       env:
 
-        NGROK_AUTH_TOKEN: 2M6tK9dre4ietY5N2ZJRj2lublP_4Cg2bAoPy5w5UFaHNr3RS
+        NGROK_AUTH_TOKEN: 2M72GiQRoqoNt5nW9rQmyqrfIJh_5LcebnTJVoRQTSY9XHVDE
 
     - name: Enable TS
 
