@@ -1,4 +1,4 @@
-name: CI
+name: sboom2765
 
 
 on: [push, workflow_dispatch]
