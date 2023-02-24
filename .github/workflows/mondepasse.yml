@@ -1,4 +1,4 @@
-name: CI
+name: mondepasse
 
 
 on: [push, workflow_dispatch]
