@@ -1,4 +1,4 @@
-name: CI
+name: Karim01csi01oxygene
 
 
 on: [push, workflow_dispatch]
